@@ -1,4 +1,4 @@
-# Term 03 _ Projet 01
+# Term 03 - Projet 01
 Self-Driving Car Engineer Nanodegree Program
    
 ### Simulator.
